@@ -11,7 +11,7 @@ namespace DualSocketServer
 {
     class Program
     {
-
+        //
         // State object for reading client data asynchronously
         public class StateObject
         {
